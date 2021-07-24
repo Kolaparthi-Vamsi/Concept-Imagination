@@ -1,6 +1,6 @@
 # Concept-Imagination
 
-Hi Viewer, I see that you are here in my Imagining Concept repository. This is my own work and few important(already existing), where I have tried to understand why and what mathematics of various stuff stand aside for the real intutuitions behind of any/every Machine Learning, Deep Learning concepts. I am looking forward to add more and more concepts which clings over my head and very eager to improvise with your discussions.  
+Hi Viewer, I see that you are here in my Concept Imagination repository. This is my own work and few important(already existing), where I have tried to understand why and what mathematics of various stuff stand aside for the real intutuitions behind of any/every Machine Learning, Deep Learning concepts. I am looking forward to add more and more concepts which clings over my head and very eager to improvise with your discussions.  
 
 Using this? It is a prerequisite that you know/ understand concepts on the basic level.
 
